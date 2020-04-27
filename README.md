@@ -1,9 +1,11 @@
 # CMPM163Labs
 
-Lab 2
+Lab 3
 
-Part 1:
-https://drive.google.com/file/d/1v5x_nntdhQc70cUU-x_f2f9uGTwaMEil/view?usp=sharing
+https://drive.google.com/open?id=1fAzMosrgesKhfkj93lwj33E1XA1qq7tJ
 
-Part 2:
-![](images/download.png)
+Cube on the left and to the top are the ones we were instructed how to make.
+
+Cube to the right was made by using a new material called wireframe.
+
+Cube to the bottom was made by interpolating between red and orange using my own shaders.
