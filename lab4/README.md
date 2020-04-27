@@ -19,3 +19,5 @@ Cube to the top had its textures loaded with shaders
 Cube to the bottom was also loaded with shaders but tiled so the texture is displayed 4x on each side
 
 This was done by multiplying the UV texture space in the vertex shader by 2 which shrinks the uv coordinate system by 1/2 making the texture only cover 1/4 of the cubes surface. Then, inorder to fill in the blanks, I used mod (vUv,1.0)in the fragment shader.
+
+Video: https://drive.google.com/open?id=12qD7vrKlzR_dAsZmsQ9bGn2Xo6D77sWv
