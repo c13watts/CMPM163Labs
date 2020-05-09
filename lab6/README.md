@@ -1,1 +1,1 @@
-![](images/Capture.PNG)
+![](images/lab6.png)
