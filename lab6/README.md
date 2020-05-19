@@ -1,1 +1,1 @@
-![](images/lab6.png)
+Lab 6
