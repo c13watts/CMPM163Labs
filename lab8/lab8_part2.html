@@ -105,8 +105,6 @@
             for (var r = -planeSize / 2; r < planeSize / 2; r++) {
                 for (var c = -planeSize / 2; c < planeSize / 2; c++) {
                     var geometry = new THREE.BoxGeometry();
-                    var grey = (Math.random() * 0.4) + 0.6;
-                    var gray = new THREE.Color(1, 1, 1);
                     var material = new THREE.MeshPhongMaterial({ color: 0xb3b3cc, emissive: 0xb3b3cc, emissiveIntensity: Math.random() * 0.4 });
                     var cube = new THREE.Mesh(geometry, material);
                     if (Math.random() > 0.98) {
